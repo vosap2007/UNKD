@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAEA,EACE,aAAc,CACd,cAAe,CACf,2BACF","file":"main.731a75d7.chunk.css","sourcesContent":["body {\n  background-color: #2D2D2D;\n}\n\np {\n  color: #C26356;\n  font-size: 30px;\n  font-family: 'Hahmlet', serif;\n}\n"]}
